@@ -1,0 +1,29 @@
+.my-color{
+    color:red;
+    font-size: 28px;
+    background-color: blueviolet
+}
+
+.my-div{
+    background-color:black;
+    color:white
+}
+.outer-div{
+background-color: blue;
+color: white
+    }
+
+.inner-div{
+    border:20px dashed red;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+.box-responsive{
+    width: 30%;
+    background-color:black;
+    color: white
+}

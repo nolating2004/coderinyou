@@ -1,0 +1,27 @@
+a:hover {
+    color: red;
+    font-size: 40px;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:visited {
+    color: violet;
+}
+
+@media (min-width:768px) {
+
+        .my_title {
+            font-size: 60px;
+        }
+
+}
+
+@media (max-width:768px) {
+    .my_title{
+        font-size: 20px;
+        color: red;
+    }
+}
